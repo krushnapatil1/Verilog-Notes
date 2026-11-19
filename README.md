@@ -1,4 +1,3 @@
-
 # Verilog Learning Repository
 
 Welcome to my **Verilog Learning Repository**! 🚀
