@@ -157,6 +157,12 @@ ChipVerify :- https://chipverify.com/
 VLSI Verify :- https://vlsiverify.com/
 Verification Academy :- https://verificationguide.com/
 
+## Online Courses to learn Verilog
+
+1. Digital Design using Verilog - NPTEL
+2. Hardware Modelling using Verilog - NPTEL
+3. System Design using Verilog - NPTEL
+
 ## 👨‍💻 Author
 
 **Krushna Gopichand Patil**
