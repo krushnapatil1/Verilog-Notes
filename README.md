@@ -151,6 +151,12 @@ I believe in learning hardware description languages through practical implement
 
 Every concept in this repository is supported by notes, coding examples, testbenches, and simulation results wherever applicable.
 
+##Websites for Revision of Verilog, SystemVerilog, Digital Design, Computer Architecture, etc.
+
+ChipVerify :- https://chipverify.com/
+VLSI Verify :- https://vlsiverify.com/
+Verification Academy :- https://verificationguide.com/
+
 ## 👨‍💻 Author
 
 **Krushna Gopichand Patil**
